@@ -1,5 +1,5 @@
 # 💫 About Me:
-Grupo Pakatnamu<br>Proyecto integrado / Laravel 
+Actualmente trabajo como Analista/Desarrollador de Proyectos en Grupo Pakatnamu <br> Vengo Trabajando en un proyecto Laravel el cual integra multiples plataformas y servicios para las diferentes empresas del grupo empresarial.
 
 
 ## 🌐 Socials:
