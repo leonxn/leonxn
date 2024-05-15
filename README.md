@@ -9,7 +9,6 @@ Actualmente trabajo como Analista/Desarrollador de Proyectos en Grupo Pakatnamu 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,angular,bash,bootstrap,d3,dart,debian,discord,github,jquery,idea,laravel,linux,mysql,npm,php,phpstorm,postgres,postman,powershell,tailwind,ubuntu,vscode&perline=8)](https://skillicons.dev)
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leonxn&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leonxn&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonxn&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
