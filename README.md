@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Carlos León,
-Actualmente trabajo como Analista/Desarrollador de Proyectos en Grupo Pakatnamu <br> Vengo Trabajando en un proyecto Laravel el cual integra multiples plataformas y servicios para las diferentes empresas del grupo empresarial.
+Actualmente trabajo como Analista/Desarrollador de Proyectos en Grupo Pakatnamu <br> Vengo Trabajando en un proyecto Laravel el cual integra multiples bases de datos tanto locales como en la nube  y servicios para las diferentes empresas del grupo empresarial.
 
 
 ## 🌐 Socials:
