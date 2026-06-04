@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Carlos León,
-Actualmente trabajo como Analista/Desarrollador de Proyectos en Grupo Pakatnamu <br> Vengo Trabajando en un proyecto Laravel el cual integra multiples bases de datos tanto locales como en la nube  y servicios para las diferentes empresas del grupo empresarial.
+Ingeniero de Sistemas con experiencia liderando proyectos de desarrollo de software y transformación digital en entidades públicas y empresas privadas del norte del Perú. Especialista en arquitectura de sistemas basada en microservicios (NestJS, Vue 3, Flutter), con historial comprobado de entrega de soluciones críticas en sectores de transporte, automotriz, salud y gobierno regional.  
 
 
 ## 🌐 Socials:
